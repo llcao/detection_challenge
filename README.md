@@ -11,4 +11,4 @@ We will focus on the following two detector frameworks.
 1. [Tensorflow Detection APIs](https://github.com/tensorflow/models/tree/master/research/object_detection)
 2. [Detectron on Caffe2 or Pytorch](https://github.com/facebookresearch/Detectron/)
 
-First question: will different detectors fail for the same images? You may try to use [Amir's examples](https://github.com/facebookresearch/Detectron/) to test.
+First question: will different detectors fail for the same images? You may try to use [Amir's examples](https://drive.google.com/drive/folders/112tOxY5jO-3VHDy0ddJjrGHDHfT7SynQ?usp=sharing) to test.
