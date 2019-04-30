@@ -11,4 +11,8 @@ We will focus on the following two detector frameworks.
 1. [Tensorflow Detection APIs](https://github.com/tensorflow/models/tree/master/research/object_detection)
 2. [Detectron on Caffe2 or Pytorch](https://github.com/facebookresearch/Detectron/)
 
-First question: will different detectors fail for the same images? You may try to use [Amir's examples](https://drive.google.com/drive/folders/112tOxY5jO-3VHDy0ddJjrGHDHfT7SynQ?usp=sharing) to test.
+# todos (04/30)
+
+1. (mehul1107@) will pytorch detectors and see whether they fail in the same images as Tensorflow Object Detector API. You may try to use [Amir's examples](https://drive.google.com/drive/folders/112tOxY5jO-3VHDy0ddJjrGHDHfT7SynQ?usp=sharing) to test.
+
+2. (sid0913@) strategy 1: place the incoming objects on the border the object boxes in coco set: laptop, TV, human, (maybe faces)
